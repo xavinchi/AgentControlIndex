@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "dataset": "tools",
+    "version": "0.1.0",
+    "asOfDate": "2026-06-02",
+    "isSampleData": true,
+    "notFactual": true,
+    "disclaimer": "All records in this file are illustrative sample entries for UI and methodology prototyping only. They are not factual evaluations or market claims."
+  },
+  "tools": [
+    {
+      "id": "sample-tool-01",
+      "name": "Sample Tool 01: Sentinel Policy Mesh",
+      "vendor": "Sample Vendor A",
+      "categoryId": "runtime-policy",
+      "summary": "Illustrative runtime policy orchestration layer for agent actions.",
+      "hqRegion": "North America",
+      "deploymentModel": ["SaaS", "Private Cloud"],
+      "targetSegments": ["Enterprise", "Regulated Industries"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-02",
+      "name": "Sample Tool 02: Access Governor Studio",
+      "vendor": "Sample Vendor B",
+      "categoryId": "identity-access",
+      "summary": "Illustrative access and approval governance workspace.",
+      "hqRegion": "Europe",
+      "deploymentModel": ["SaaS"],
+      "targetSegments": ["Enterprise"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-03",
+      "name": "Sample Tool 03: Audit Trace Ledger",
+      "vendor": "Sample Vendor C",
+      "categoryId": "observability-audit",
+      "summary": "Illustrative audit event ledger and observability index.",
+      "hqRegion": "North America",
+      "deploymentModel": ["SaaS", "On-Prem"],
+      "targetSegments": ["Enterprise", "Public Sector"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-04",
+      "name": "Sample Tool 04: Oversight Control Desk",
+      "vendor": "Sample Vendor D",
+      "categoryId": "human-oversight",
+      "summary": "Illustrative human-in-the-loop control and escalation console.",
+      "hqRegion": "Asia Pacific",
+      "deploymentModel": ["SaaS"],
+      "targetSegments": ["Enterprise"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-05",
+      "name": "Sample Tool 05: Compliance Rail Engine",
+      "vendor": "Sample Vendor E",
+      "categoryId": "risk-compliance",
+      "summary": "Illustrative compliance policy mapping and control attestation workflow.",
+      "hqRegion": "Europe",
+      "deploymentModel": ["Private Cloud", "On-Prem"],
+      "targetSegments": ["Financial Services", "Healthcare"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-06",
+      "name": "Sample Tool 06: Action Boundary Gateway",
+      "vendor": "Sample Vendor F",
+      "categoryId": "tool-action-control",
+      "summary": "Illustrative command boundary enforcement and runtime gating.",
+      "hqRegion": "North America",
+      "deploymentModel": ["SaaS", "Private Cloud"],
+      "targetSegments": ["Enterprise", "Technology"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-07",
+      "name": "Sample Tool 07: Integration Readiness Hub",
+      "vendor": "Sample Vendor G",
+      "categoryId": "enterprise-integration",
+      "summary": "Illustrative systems integration and control-plane interoperability toolkit.",
+      "hqRegion": "North America",
+      "deploymentModel": ["SaaS"],
+      "targetSegments": ["Enterprise", "Consulting"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-08",
+      "name": "Sample Tool 08: Evidence Signal Vault",
+      "vendor": "Sample Vendor H",
+      "categoryId": "evidence-maturity",
+      "summary": "Illustrative evidence capture and maturity signal repository.",
+      "hqRegion": "Europe",
+      "deploymentModel": ["SaaS"],
+      "targetSegments": ["Enterprise", "Regulated Industries"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-09",
+      "name": "Sample Tool 09: Runtime Integrity Watch",
+      "vendor": "Sample Vendor I",
+      "categoryId": "runtime-policy",
+      "summary": "Illustrative runtime integrity monitoring and policy conformance layer.",
+      "hqRegion": "Middle East & Africa",
+      "deploymentModel": ["SaaS", "Private Cloud"],
+      "targetSegments": ["Enterprise", "Energy"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-10",
+      "name": "Sample Tool 10: Approval Chain Orchestrator",
+      "vendor": "Sample Vendor J",
+      "categoryId": "human-oversight",
+      "summary": "Illustrative approval chain automation with manual override controls.",
+      "hqRegion": "Asia Pacific",
+      "deploymentModel": ["SaaS"],
+      "targetSegments": ["Enterprise", "Public Sector"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-11",
+      "name": "Sample Tool 11: Policy Graph Navigator",
+      "vendor": "Sample Vendor K",
+      "categoryId": "risk-compliance",
+      "summary": "Illustrative policy graphing and governance impact tracing.",
+      "hqRegion": "Europe",
+      "deploymentModel": ["Private Cloud"],
+      "targetSegments": ["Enterprise", "Insurance"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-tool-12",
+      "name": "Sample Tool 12: Command Audit Fabric",
+      "vendor": "Sample Vendor L",
+      "categoryId": "observability-audit",
+      "summary": "Illustrative command telemetry and forensic audit fabric.",
+      "hqRegion": "North America",
+      "deploymentModel": ["SaaS", "On-Prem"],
+      "targetSegments": ["Enterprise", "Defense"],
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    }
+  ]
+}

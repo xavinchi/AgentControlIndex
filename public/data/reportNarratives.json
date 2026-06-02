@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "dataset": "reportNarratives",
+    "version": "0.1.0",
+    "asOfDate": "2026-06-02",
+    "isSampleData": true,
+    "notFactual": true,
+    "disclaimer": "Narratives are drafting placeholders for report export templates and are not factual commentary."
+  },
+  "narratives": [
+    {
+      "id": "market-overview-summary",
+      "section": "Market Overview",
+      "title": "Sample Executive Summary",
+      "body": "Sample narrative: the market is represented by prototype entities with synthetic scoring to illustrate governance benchmarking output formats.",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "benchmark-observations",
+      "section": "Benchmark",
+      "title": "Sample Benchmark Observations",
+      "body": "Sample narrative: relative performance bands shown in this dataset are illustrative and should be replaced by researched assessments before publication.",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "methodology-note",
+      "section": "Methodology",
+      "title": "Sample Methodology Note",
+      "body": "Sample narrative: weighted scoring dimensions follow project-brief structure and are presented as a demonstration of framework behavior.",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "report-export-footnote",
+      "section": "Report Export",
+      "title": "Sample Export Footnote",
+      "body": "Sample narrative: all exported statements from this prototype must preserve sample-data disclaimers until real research inputs are loaded.",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    }
+  ]
+}

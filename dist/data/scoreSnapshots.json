@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "dataset": "scoreSnapshots",
+    "version": "0.1.0",
+    "asOfDate": "2026-06-02",
+    "isSampleData": true,
+    "notFactual": true,
+    "disclaimer": "Scores are synthetic examples for UI testing and should not be interpreted as real assessments.",
+    "sampleScoringMethod": "Dimension scores (0-5) multiplied by brief-defined weights, then normalized to 100."
+  },
+  "snapshots": [
+    {
+      "snapshotId": "sample-2026q2",
+      "label": "Sample Snapshot Q2 2026",
+      "date": "2026-06-02",
+      "scores": [
+        {
+          "toolId": "sample-tool-01",
+          "overallScore": 78,
+          "band": "Strong Performer",
+          "dimensions": {
+            "runtimePolicyControl": 4.3,
+            "identityAccessPermissions": 3.8,
+            "observabilityAuditability": 3.7,
+            "riskComplianceGovernance": 4.0,
+            "humanOversightApprovals": 3.5,
+            "toolActionControl": 4.2,
+            "enterpriseIntegrationReadiness": 3.9,
+            "evidenceQualityMarketMaturity": 3.2
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-02",
+          "overallScore": 66,
+          "band": "Emerging Contender",
+          "dimensions": {
+            "runtimePolicyControl": 3.6,
+            "identityAccessPermissions": 4.1,
+            "observabilityAuditability": 3.0,
+            "riskComplianceGovernance": 3.4,
+            "humanOversightApprovals": 3.7,
+            "toolActionControl": 3.1,
+            "enterpriseIntegrationReadiness": 3.2,
+            "evidenceQualityMarketMaturity": 2.9
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-03",
+          "overallScore": 72,
+          "band": "Strong Performer",
+          "dimensions": {
+            "runtimePolicyControl": 3.8,
+            "identityAccessPermissions": 3.4,
+            "observabilityAuditability": 4.4,
+            "riskComplianceGovernance": 3.7,
+            "humanOversightApprovals": 3.2,
+            "toolActionControl": 3.6,
+            "enterpriseIntegrationReadiness": 3.5,
+            "evidenceQualityMarketMaturity": 3.3
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-04",
+          "overallScore": 59,
+          "band": "Emerging Contender",
+          "dimensions": {
+            "runtimePolicyControl": 3.0,
+            "identityAccessPermissions": 3.2,
+            "observabilityAuditability": 2.9,
+            "riskComplianceGovernance": 3.1,
+            "humanOversightApprovals": 4.3,
+            "toolActionControl": 2.8,
+            "enterpriseIntegrationReadiness": 3.0,
+            "evidenceQualityMarketMaturity": 2.7
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-05",
+          "overallScore": 74,
+          "band": "Strong Performer",
+          "dimensions": {
+            "runtimePolicyControl": 3.7,
+            "identityAccessPermissions": 3.5,
+            "observabilityAuditability": 3.6,
+            "riskComplianceGovernance": 4.4,
+            "humanOversightApprovals": 3.1,
+            "toolActionControl": 3.4,
+            "enterpriseIntegrationReadiness": 3.5,
+            "evidenceQualityMarketMaturity": 3.0
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-06",
+          "overallScore": 63,
+          "band": "Emerging Contender",
+          "dimensions": {
+            "runtimePolicyControl": 3.4,
+            "identityAccessPermissions": 3.0,
+            "observabilityAuditability": 3.1,
+            "riskComplianceGovernance": 3.2,
+            "humanOversightApprovals": 2.9,
+            "toolActionControl": 4.0,
+            "enterpriseIntegrationReadiness": 3.3,
+            "evidenceQualityMarketMaturity": 2.8
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-07",
+          "overallScore": 61,
+          "band": "Emerging Contender",
+          "dimensions": {
+            "runtimePolicyControl": 3.1,
+            "identityAccessPermissions": 3.2,
+            "observabilityAuditability": 3.0,
+            "riskComplianceGovernance": 3.1,
+            "humanOversightApprovals": 2.8,
+            "toolActionControl": 3.0,
+            "enterpriseIntegrationReadiness": 4.2,
+            "evidenceQualityMarketMaturity": 2.9
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-08",
+          "overallScore": 57,
+          "band": "Emerging Contender",
+          "dimensions": {
+            "runtimePolicyControl": 2.8,
+            "identityAccessPermissions": 3.0,
+            "observabilityAuditability": 2.9,
+            "riskComplianceGovernance": 3.1,
+            "humanOversightApprovals": 2.7,
+            "toolActionControl": 2.9,
+            "enterpriseIntegrationReadiness": 3.0,
+            "evidenceQualityMarketMaturity": 4.1
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-09",
+          "overallScore": 68,
+          "band": "Emerging Contender",
+          "dimensions": {
+            "runtimePolicyControl": 4.0,
+            "identityAccessPermissions": 3.1,
+            "observabilityAuditability": 3.3,
+            "riskComplianceGovernance": 3.4,
+            "humanOversightApprovals": 3.0,
+            "toolActionControl": 3.6,
+            "enterpriseIntegrationReadiness": 3.2,
+            "evidenceQualityMarketMaturity": 2.9
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-10",
+          "overallScore": 60,
+          "band": "Emerging Contender",
+          "dimensions": {
+            "runtimePolicyControl": 2.9,
+            "identityAccessPermissions": 3.1,
+            "observabilityAuditability": 2.8,
+            "riskComplianceGovernance": 3.0,
+            "humanOversightApprovals": 4.1,
+            "toolActionControl": 2.7,
+            "enterpriseIntegrationReadiness": 3.1,
+            "evidenceQualityMarketMaturity": 2.8
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-11",
+          "overallScore": 71,
+          "band": "Strong Performer",
+          "dimensions": {
+            "runtimePolicyControl": 3.5,
+            "identityAccessPermissions": 3.4,
+            "observabilityAuditability": 3.3,
+            "riskComplianceGovernance": 4.3,
+            "humanOversightApprovals": 3.2,
+            "toolActionControl": 3.3,
+            "enterpriseIntegrationReadiness": 3.4,
+            "evidenceQualityMarketMaturity": 3.1
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        },
+        {
+          "toolId": "sample-tool-12",
+          "overallScore": 69,
+          "band": "Emerging Contender",
+          "dimensions": {
+            "runtimePolicyControl": 3.4,
+            "identityAccessPermissions": 3.2,
+            "observabilityAuditability": 4.0,
+            "riskComplianceGovernance": 3.5,
+            "humanOversightApprovals": 2.9,
+            "toolActionControl": 3.2,
+            "enterpriseIntegrationReadiness": 3.3,
+            "evidenceQualityMarketMaturity": 3.0
+          },
+          "scoreLabel": "SAMPLE - NOT FACTUAL"
+        }
+      ]
+    }
+  ]
+}

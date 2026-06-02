@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "dataset": "categories",
+    "version": "0.1.0",
+    "asOfDate": "2026-06-02",
+    "isSampleData": true,
+    "notFactual": true,
+    "disclaimer": "Category mappings are sample taxonomy entries for prototype navigation and filtering."
+  },
+  "categories": [
+    {
+      "id": "runtime-policy",
+      "name": "Runtime Policy Control",
+      "description": "Policy definition and enforcement during agent execution.",
+      "toolIds": ["sample-tool-01", "sample-tool-09"]
+    },
+    {
+      "id": "identity-access",
+      "name": "Identity, Access & Permissions",
+      "description": "Identity assurance and permission boundary governance.",
+      "toolIds": ["sample-tool-02"]
+    },
+    {
+      "id": "observability-audit",
+      "name": "Observability & Auditability",
+      "description": "Traceability, logging, and forensic review controls.",
+      "toolIds": ["sample-tool-03", "sample-tool-12"]
+    },
+    {
+      "id": "risk-compliance",
+      "name": "Risk, Compliance & Governance",
+      "description": "Risk controls, compliance mapping, and governance workflows.",
+      "toolIds": ["sample-tool-05", "sample-tool-11"]
+    },
+    {
+      "id": "human-oversight",
+      "name": "Human Oversight & Approvals",
+      "description": "Approval chains, manual intervention, and escalation pathways.",
+      "toolIds": ["sample-tool-04", "sample-tool-10"]
+    },
+    {
+      "id": "tool-action-control",
+      "name": "Tool Action Control",
+      "description": "Control boundaries over tool invocation and action execution.",
+      "toolIds": ["sample-tool-06"]
+    },
+    {
+      "id": "enterprise-integration",
+      "name": "Enterprise Integration Readiness",
+      "description": "Interoperability with enterprise systems and governance stacks.",
+      "toolIds": ["sample-tool-07"]
+    },
+    {
+      "id": "evidence-maturity",
+      "name": "Evidence Quality & Market Maturity",
+      "description": "Evidence strength, customer proof points, and maturity indicators.",
+      "toolIds": ["sample-tool-08"]
+    }
+  ]
+}

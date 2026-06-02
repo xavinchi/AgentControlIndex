@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "dataset": "evidenceSources",
+    "version": "0.1.0",
+    "asOfDate": "2026-06-02",
+    "isSampleData": true,
+    "notFactual": true,
+    "disclaimer": "Evidence entries are fictional examples demonstrating source tracking structure."
+  },
+  "sources": [
+    {
+      "id": "sample-source-01",
+      "toolId": "sample-tool-01",
+      "sourceType": "Vendor Documentation",
+      "title": "Sample Runtime Policy Whitepaper",
+      "url": "https://example.com/sample-runtime-policy-whitepaper",
+      "evidenceStrength": "Medium",
+      "lastReviewed": "2026-05-21",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-source-02",
+      "toolId": "sample-tool-03",
+      "sourceType": "Independent Analysis",
+      "title": "Sample Auditability Landscape Note",
+      "url": "https://example.com/sample-auditability-note",
+      "evidenceStrength": "Medium",
+      "lastReviewed": "2026-05-15",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-source-03",
+      "toolId": "sample-tool-05",
+      "sourceType": "Control Mapping",
+      "title": "Sample Governance Control Mapping",
+      "url": "https://example.com/sample-governance-control-mapping",
+      "evidenceStrength": "High",
+      "lastReviewed": "2026-05-20",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-source-04",
+      "toolId": "sample-tool-08",
+      "sourceType": "Case Study",
+      "title": "Sample Maturity Evidence Case Study",
+      "url": "https://example.com/sample-maturity-case-study",
+      "evidenceStrength": "Low",
+      "lastReviewed": "2026-04-28",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    },
+    {
+      "id": "sample-source-05",
+      "toolId": "sample-tool-12",
+      "sourceType": "Technical Demo",
+      "title": "Sample Command Audit Demonstration",
+      "url": "https://example.com/sample-command-audit-demo",
+      "evidenceStrength": "Medium",
+      "lastReviewed": "2026-05-30",
+      "sampleLabel": "SAMPLE - NOT FACTUAL"
+    }
+  ]
+}

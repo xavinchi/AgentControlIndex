@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "dataset": "methodologyWeights",
+    "version": "0.1.0",
+    "asOfDate": "2026-06-02",
+    "isSampleData": true,
+    "notFactual": true,
+    "disclaimer": "Weights mirror the prototype methodology in the project brief and are included for illustrative scoring logic only."
+  },
+  "scale": {
+    "scoreRange": "0-5",
+    "weightedTotal": 100
+  },
+  "dimensions": [
+    { "key": "runtimePolicyControl", "label": "Runtime Policy Control", "weight": 20 },
+    { "key": "identityAccessPermissions", "label": "Identity, Access & Permissions", "weight": 15 },
+    { "key": "observabilityAuditability", "label": "Observability & Auditability", "weight": 15 },
+    { "key": "riskComplianceGovernance", "label": "Risk, Compliance & Governance", "weight": 15 },
+    { "key": "humanOversightApprovals", "label": "Human Oversight & Approvals", "weight": 10 },
+    { "key": "toolActionControl", "label": "Tool Action Control", "weight": 10 },
+    { "key": "enterpriseIntegrationReadiness", "label": "Enterprise Integration Readiness", "weight": 10 },
+    { "key": "evidenceQualityMarketMaturity", "label": "Evidence Quality & Market Maturity", "weight": 5 }
+  ],
+  "scoreBands": [
+    { "min": 85, "max": 100, "label": "Leader" },
+    { "min": 70, "max": 84, "label": "Strong Performer" },
+    { "min": 55, "max": 69, "label": "Emerging Contender" },
+    { "min": 40, "max": 54, "label": "Early Stage" },
+    { "min": 0, "max": 39, "label": "Limited Evidence" }
+  ]
+}
